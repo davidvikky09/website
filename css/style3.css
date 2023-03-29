@@ -1,0 +1,75 @@
+
+
+li{
+    list-style: none;
+   margin-right: 50px;
+}
+
+ul{
+    display: flex;
+}
+
+button{
+    border-radius: 50px;   
+    background-color: transparent;
+    padding: 7px 16px;
+    margin-right: 30px;
+    border-width: 1px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+    color: #1e3932;
+    border-style: solid;
+    background: none;
+    line-height: 1.2;
+}
+
+header{
+    display: flex;
+    box-shadow: 0 8px 6px -10px;
+}
+
+.container{
+    display: flex;
+    margin-bottom: 50px;
+}
+
+h3{
+    color: #1e3932;
+    font-size: 60px;
+    font-weight: 600;
+    margin-top: 200px;
+    margin-bottom: 30px;
+    letter-spacing: 2px;
+    line-height: 1.2;
+}
+
+p{
+    color: #1e3932;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+
+.product_image{
+    width: 50%;
+}
+
+h2{
+    font-size: 25px;
+    font-weight: 400;
+    font-family: 'Nunito Sans', sans-serif;
+    margin-left: 40px;
+}
+
+.footer_block{
+    display: inline-block;
+    font-size: 26px;
+    color: rgba(0,0,0,.58);
+    line-height: 1.5;
+    letter-spacing: -.01em;
+    font-weight: 400;
+}
+.footer_list{
+    padding-top: 12px;
+    padding-bottom: 12px;
+}

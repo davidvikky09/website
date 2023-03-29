@@ -1,0 +1,46 @@
+.general{
+    display: flex;
+    background-size: contain;
+    background-color: lightsteelblue;
+}
+
+.container{
+    display: flex;
+}
+h4{
+    margin-left: 50px;
+    margin-right: 20px;
+    font-size: 70px;
+    font-weight: 300;
+}
+
+h3{
+    font-weight: 300;
+    font-size: 19px;
+    margin-right: 50px;
+}
+
+#home_image{
+    width: 70%;
+}
+
+#first_container{
+    width: 40%;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#second_container{
+    width: 40%;
+    display: flex;
+    background-color: rgb(231, 235, 241);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#third_container{
+    display: grid;
+}
+
